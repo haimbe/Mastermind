@@ -92,7 +92,7 @@ public class Challenger extends Mastermind.Combinaison {
         setresult1(this.result4);
 
         resultat = new String("getresult1()"+"getresult2()"+"getresult3()"+"getresult4()");
-        
+
 
          System.out.println(getresult1()+getresult2()+getresult3()+getresult4());
 
