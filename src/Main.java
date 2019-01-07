@@ -4,16 +4,18 @@ public class Main {
 
     public static void main(String[] args) {
 
-        public class computer();
+        String resultat = "default";
+
+        public Mastermind.Challenger computer();
+
+
+        while (!resulat.equals(++++)) {
+
+            public static class createJ1();
+            public static class challengerChecking();
+        }
+
+
     }
-        while (getresult1()&&getresult2()&&getresult3()&&getresult4() != ++++ )
-
-    {
-
-        public class createJ1 ();
-        public class challengerChecking ();
-    }
-
-
-    }
+}
 

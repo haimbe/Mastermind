@@ -6,6 +6,8 @@ public abstract class Combinaison{
 
     protected char result1, result2, result3, result4;
 
+    protected String resultat;
+
     public int getChiffre1(){ return chiffre1;}
 
     public void setChiffre1(int chiffre1){
@@ -66,7 +68,21 @@ public abstract class Combinaison{
     }
 
 
-}
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+        }
 
 
 
